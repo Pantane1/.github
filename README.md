@@ -1,2 +1,0 @@
-# .github
-sponsor page
